@@ -1,0 +1,8 @@
+{
+  "$comment": "Mirrors team-aibo/.markdownlint.json and the wider fleet. MD013 (line length) and MD060 are style preferences this fleet has never followed and neither affects rendering. Without this file the default 80-column MD013 fires on every prose file here, and a check that can never be green trains readers to ignore it, which is indistinguishable from having no check.",
+  "default": true,
+  "MD013": false,
+  "MD060": false,
+  "MD041": true,
+  "MD036": false
+}

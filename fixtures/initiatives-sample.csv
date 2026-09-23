@@ -1,0 +1,11 @@
+key,summary,owner,status,due
+DEMO-101,Course feedback digest phase 1,avery.stone,In Progress,2026-09-10
+DEMO-102,Retire the manual roster reconciliation,jordan.pike,In Progress,2026-09-18
+DEMO-103,Catalogue export scheduling,avery.stone,To Do,
+DEMO-104,Survey platform connector spike,rowan.diaz,To Do,
+DEMO-105,Weekly digest delivery,jordan.pike,To Do,2026-09-29
+DEMO-106,Retire legacy feedback form,sam.okafor,Done,2026-08-30
+DEMO-107,Theme grouping for free text,rowan.diaz,In Progress,2026-10-14
+DEMO-108,Ratings backfill for archived courses,,To Do,
+DEMO-109,Digest formatting pass,avery.stone,Done,2026-09-05
+DEMO-110,Access review for the reporting account,sam.okafor,In Progress,2026-09-22

@@ -1,0 +1,9 @@
+# Real data never lands here. The repo ships synthetic fixtures only, and a
+# real export is pointed at rather than committed.
+*-export.csv
+*-real.csv
+data/
+.env
+.DS_Store
+__pycache__/
+.venv/
