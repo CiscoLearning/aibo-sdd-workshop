@@ -10,10 +10,17 @@ the skill being taught is specifying rather than typing. Every file here is mark
 
 | If you want to | Read |
 |---|---|
+| See exactly how the live demo was started | [`examples/demo-opening-prompt.md`](examples/demo-opening-prompt.md) |
+| Look at the spreadsheet the demo was built around | [`fixtures/ai-productivity-roi-calculator.xlsx`](fixtures/ai-productivity-roi-calculator.xlsx) |
 | Understand what a project constitution is and write one | [`examples/constitution.md`](examples/constitution.md) |
 | See what a feature spec looks like before any code exists | [`examples/feature-spec.md`](examples/feature-spec.md) |
 | Steal a working skill and adapt it | [`skills/overdue-report/SKILL.md`](skills/overdue-report/SKILL.md) |
 | Go deeper than the hour allowed | [Resources](#resources) below |
+
+**The examples are a different project from the demo, on purpose.** The demo builds an ROI
+rollup. `examples/constitution.md` and `examples/feature-spec.md` describe a course feedback
+digest. Seeing the same shape applied to two unrelated problems is more useful than seeing one
+problem twice, and it makes the point that the structure is not specific to what was demoed.
 
 ## The workflow, in one paragraph
 
