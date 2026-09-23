@@ -16,6 +16,14 @@ enough to read in one sitting, because the point is that you could have written 
 Use it when someone needs a chase list. Do not use it as a status report: it answers one narrow
 question and answering more would make it worse.
 
+**Why this is a skill and not a spec-driven build**, which the session made a point of. Finding
+undated items is something a board filter already does in thirty seconds, so it fails the test for
+work worth specifying, and it appears on the session's own slide as the counter-example. What
+makes it worth writing anyway is that a skill is cheap: one markdown file, no branch, no plan, no
+validation step. **That is the honest boundary between the two.** A skill captures a small thing
+you repeat. A spec-driven build is for work somebody else depends on and somebody else will
+maintain. Reaching for the heavy process here would be the mistake the session warns about.
+
 ## Input
 
 A CSV export with at least these columns. Extra columns are ignored rather than being an error,
