@@ -10,6 +10,8 @@ the skill being taught is specifying rather than typing. Every file here is mark
 
 | If you want to | Read |
 |---|---|
+| **Have never really used Git or GitHub** | [`getting-started/where-the-code-lives.md`](getting-started/where-the-code-lives.md) |
+| **Try it and find it is not working** | [`getting-started/when-it-does-not-work.md`](getting-started/when-it-does-not-work.md) |
 | See exactly how the live demo was started | [`examples/demo-opening-prompt.md`](examples/demo-opening-prompt.md) |
 | Look at the spreadsheet the demo was built around | [`fixtures/ai-productivity-roi-calculator.xlsx`](fixtures/ai-productivity-roi-calculator.xlsx) |
 | Understand what a project constitution is and write one | [`examples/constitution.md`](examples/constitution.md) |
